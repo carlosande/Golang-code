@@ -1,3 +1,3 @@
-module find_in_file
+module main
 
 go 1.20
